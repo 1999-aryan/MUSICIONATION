@@ -1,0 +1,260 @@
+
+.big-b{
+    height: 600px;
+    background-image: url('b.PNG');
+    background-size: 100%;
+}
+.hit-the{
+    padding-top:175px ;
+    font-size:80px;
+    color:white;
+    margin-left: 50px;
+    font-family: 'Hachi Maru Pop';
+
+}
+.Beats{
+    font-size:100px;
+    margin-top: 10px;
+    color:white;
+    margin-left: 350px;
+    font-family: 'Hachi Maru Pop';
+
+}
+
+.dive-2{
+    height: 700px;
+    background-image: url('h.PNG.jpg');
+    background-size: 100%;
+}
+
+.MUSIC{
+    padding-top: 55px;
+    font-size: 80px;
+    margin-left: 80px;
+}
+
+.first-p{
+    text-align: left;
+    margin-left: 100px;
+    margin-right:45px ;
+    font-size: 22px;
+    font-family: 'Caveat';
+}
+
+.div-3{
+    background-color: dimgrey;
+    padding-bottom: 10px;
+padding-top: 10px;
+}
+
+.want-to{
+    margin-top: 10px;
+    margin-left: 50px;
+    color: gainsboro;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ABOUT-THE-INSTRUENTS{
+    margin-left: 320px;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+.HERE-IT-IS{
+    margin-left: 600px;
+    font-family:'Times New Roman', Times, serif;
+    color: gainsboro;
+}
+
+
+/*testimonials*/
+
+#testimonials{
+    text-align: center;
+    background-color:grey ;
+    color:whitesmoke;
+    font-family: 'Caveat', cursive;
+
+}
+
+.testimonial-img-1{
+    width: 32%;
+    border-radius: 8%;
+    margin-top: 20px;
+}
+.gutar-h{
+    font-family: 'Source Code Pro';
+    color:white;
+}
+.guitar-h-2{
+    font-family: 'Source Code Pro';
+
+}
+.PIANO-h{
+    font-family: 'Source Code Pro';
+    padding-top: 10%;
+    text-align:center;
+    color: white;
+}
+.PIANO-h-2{
+    font-family: 'Source Code Pro';
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+
+.testimonial-image-2{
+    width: 22%;
+    border-radius: 8%;
+    margin-top: 20px;
+    margin-left: 40%;
+   
+}
+
+.SPARE-STUFF{
+    color:black;
+    margin-top: 10px;
+    font-size: 22px;
+    margin-left: 370px;
+margin-right: 370px;
+}
+
+.SPARE-STUFF-2{
+    color:black;
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: 'Caveat';
+    margin-left: 590px;
+margin-right: 590px;
+
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#press{
+    background-color:grey;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 15px;
+}
+
+ 
+.pricing-start{
+    margin-left: 5em;
+}
+.row{
+    padding: 80px;
+}
+#pricing{
+    text-align: center;
+    margin-top: 6em;
+}
+.pricing-coloum{
+    padding: 3% 2%;
+}
+
+.div-4{
+    background-color: dimgrey;
+}
+
+.div-5{
+background-color:darkgrey;
+}
+.drum-h{
+    font-family: 'Source Code Pro';
+    padding-top: 10%;
+    text-align:center;
+    color: white;
+}
+.drum-h-2{
+    font-family: 'Source Code Pro';
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.testimonial-image-3{
+    width: 22%;
+    border-radius: 8%;
+    margin-top: 20px;
+    margin-left: 40%;
+}
+.SPARE-STUFF-3{
+    color:black;
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: 'Caveat';
+    margin-left: 590px;
+margin-right: 590px;
+}
+
+
+
+
+
+
+.virtual1{
+    color:black;
+    margin-top: 10px;
+    font-size: 22px;
+    text-align: left;
+   
+
+}
+.virtual2{
+    color:black;
+    margin-top: 10px;
+    font-size: 22px;
+    text-align: left;
+   
+
+}
+.virtual3{
+ color:black;
+    margin-top: 10px;
+    font-size: 22px;
+    text-align: left;
+    
+
+}
+.last-div{
+    background-color: lightslategrey;
+}
+.last-h{
+font-size: 25px;
+}
+
+.A-b{
+    margin: 0;
+}
+
+.div-A{
+    height: 700px;
+    background-image: url('about.PNG.jpg');
+    background-size: 100%;
+    padding: 10%;
+    
+}
+.h-A{
+    
+    font-size:100px;
+    margin-top: 10px;
+    
+   text-align: center;
+   font-family: 'Source Code Pro';
+   color: white ;
+}
+.A-h{
+    font-family: 'Caveat';
+    color: white ;
+}
+.A-p{
+    font-family: 'Caveat';
+    color: white ;
+    font-size: 24px;
+}
